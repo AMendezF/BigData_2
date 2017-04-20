@@ -1,0 +1,8 @@
+(weee,1)
+(hola,1)
+(hola,2)
+(caracola,1)
+(yo,1)
+(yo,2)
+(rrrr,1)
+(rrrr,2)
